@@ -1,0 +1,14 @@
+C:\Users\vasudevakrishnan\source\repos\operators\operators\bin\Debug\net10.0\operators.exe
+C:\Users\vasudevakrishnan\source\repos\operators\operators\bin\Debug\net10.0\operators.deps.json
+C:\Users\vasudevakrishnan\source\repos\operators\operators\bin\Debug\net10.0\operators.runtimeconfig.json
+C:\Users\vasudevakrishnan\source\repos\operators\operators\bin\Debug\net10.0\operators.dll
+C:\Users\vasudevakrishnan\source\repos\operators\operators\bin\Debug\net10.0\operators.pdb
+C:\Users\vasudevakrishnan\source\repos\operators\operators\obj\Debug\net10.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasudevakrishnan\source\repos\operators\operators\obj\Debug\net10.0\operators.AssemblyInfoInputs.cache
+C:\Users\vasudevakrishnan\source\repos\operators\operators\obj\Debug\net10.0\operators.AssemblyInfo.cs
+C:\Users\vasudevakrishnan\source\repos\operators\operators\obj\Debug\net10.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\vasudevakrishnan\source\repos\operators\operators\obj\Debug\net10.0\operators.dll
+C:\Users\vasudevakrishnan\source\repos\operators\operators\obj\Debug\net10.0\refint\operators.dll
+C:\Users\vasudevakrishnan\source\repos\operators\operators\obj\Debug\net10.0\operators.pdb
+C:\Users\vasudevakrishnan\source\repos\operators\operators\obj\Debug\net10.0\operators.genruntimeconfig.cache
+C:\Users\vasudevakrishnan\source\repos\operators\operators\obj\Debug\net10.0\ref\operators.dll
