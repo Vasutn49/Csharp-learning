@@ -1,0 +1,7 @@
+﻿Build started at 11:04...
+1>------ Build started: Project: myencapsulation, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>E:\C# LEARNING\myencapsulation\myencapsulation\Program.cs(8,73,8,73): error CS1002: ; expected
+1>E:\C# LEARNING\myencapsulation\myencapsulation\Program.cs(15,71,15,71): error CS1002: ; expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:04 and took 00.414 seconds ==========
